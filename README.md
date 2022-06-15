@@ -1,4 +1,4 @@
-![header](https://github.com/Glazinapik/glazinapik/blob/main/assets/download.gif)
+![header](https://github.com/Glazinapik/glazinapik/blob/main/assets/logo.gif)
 
 About me
 
