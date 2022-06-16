@@ -1,7 +1,7 @@
   ![header](https://github.com/Glazinapik/glazinapik/blob/main/assets/vova.gif)
   ![header2](https://github.com/Glazinapik/glazinapik/blob/main/assets/front.gif)
 
-  ![header2](https://i.pinimg.com/originals/0e/0a/54/0e0a54a90658ba6995488a35585642ee.gif)
+  ![header2](https://github.com/Glazinapik/glazinapik/blob/main/assets/LaeF.gif)
 
 
 <h3>LANGUAGES AND TOOLS</h3>
