@@ -1,4 +1,5 @@
   ![header](https://github.com/Glazinapik/glazinapik/blob/main/assets/vova.gif)
+  ![header2](https://github.com/Glazinapik/glazinapik/blob/main/assets/front.gif)
 
 
 <h3>LANGUAGES AND TOOLS</h3>
