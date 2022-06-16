@@ -1,8 +1,6 @@
   ![header](https://github.com/Glazinapik/glazinapik/blob/main/assets/vova.gif)
   ![header2](https://github.com/Glazinapik/glazinapik/blob/main/assets/front.gif)
 
-<img width="100" height="150" src ="https://github.com/Glazinapik/glazinapik/blob/main/assets/LaeF.gif">
-
 <h3>LANGUAGES AND TOOLS</h3>
 
 [![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://ru.wikipedia.org/wiki/JavaScript)
@@ -21,3 +19,7 @@
 [![tool](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/glazinapik)
 [![tool](https://img.shields.io/badge/whatsapp-black?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=79777015893)
 
+
+<div align="center">
+<img width="300" height="450" src ="https://github.com/Glazinapik/glazinapik/blob/main/assets/LaeF.gif">
+</div>
