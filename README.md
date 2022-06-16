@@ -10,8 +10,8 @@ About me
 ![tool](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![tool](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![tool](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
 ![tool](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize)
+![tool](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
 
 
 Follow me
