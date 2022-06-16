@@ -21,5 +21,5 @@
 
 
 <div align="center">
-<img width="300" height="450" src ="https://github.com/Glazinapik/glazinapik/blob/main/assets/LaeF.gif">
+<img width="350" height="450" src ="https://github.com/Glazinapik/glazinapik/blob/main/assets/LaeF.gif">
 </div>
