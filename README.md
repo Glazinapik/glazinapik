@@ -1,7 +1,6 @@
   ![header](https://github.com/Glazinapik/glazinapik/blob/main/assets/vova.gif)
   ![header2](https://github.com/Glazinapik/glazinapik/blob/main/assets/front.gif)
 
-About me
 
 <h3>LANGUAGES AND TOOLS</h3>
 
@@ -15,4 +14,8 @@ About me
 
 
 Follow me
+[![JS](https://img.shields.io/badge/VKONTAKTE-black?style=for-the-badge&logo=vk&logoColor=blue)](https://vk.com/glazinapik)
+[![tool](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=violet)](https://t.me/Fkshrb)
+[![tool](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https:https://www.instagram.com/glazinapik)
+[![tool](https://img.shields.io/badge/whatsapp-black?style=for-the-badge&logo=whatsapp)](https:https://api.whatsapp.com/send?phone=79777015893)
 
