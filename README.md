@@ -1,8 +1,7 @@
   ![header](https://github.com/Glazinapik/glazinapik/blob/main/assets/vova.gif)
   ![header2](https://github.com/Glazinapik/glazinapik/blob/main/assets/front.gif)
 
-  ![header2](https://github.com/Glazinapik/glazinapik/blob/main/assets/LaeF.gif)
-
+<img width="100" height="150" src ="https://github.com/Glazinapik/glazinapik/blob/main/assets/LaeF.gif">
 
 <h3>LANGUAGES AND TOOLS</h3>
 
